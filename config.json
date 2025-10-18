@@ -1,0 +1,7 @@
+{
+  "TELEGRAM_TOKEN": "7557895305:AAFouKj0nIECFsPAp8er-2wdG3zKBQMlcEM",
+  "OPENAI_API_KEY": "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",
+  "MODEL": "gpt-4o-mini",
+  "ADMINS": [7454664711],
+  "BOT_PREFIX": "/"
+}
